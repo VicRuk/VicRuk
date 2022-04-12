@@ -2,7 +2,7 @@
   <img align="center" alt="perfil" src="https://cdn.discordapp.com/attachments/825767075733307423/963238024068616333/test2.png">
 </div><br>
 <div align="center">
-  <b>Bom dia! Estou no Segundo Ano na ETEC Registro 👍 Venho tentando melhorar na Programação 😎 Faço edições de vídeos e fotos 💪<br>
+  <b>Bom dia! Estou no Segundo Ano na ETEC Registro 👍 Venho tentando melhorar na Programação e faço edições de vídeos e fotos 😎👍<br>
   é sobre isso.</b>
 </div><br><br>
 
