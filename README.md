@@ -2,6 +2,10 @@
   <img align="center" alt="perfil" src="https://cdn.discordapp.com/attachments/825767075733307423/963238024068616333/test2.png">
 </div><br>
 <div align="center">
+  Bom dia! Estou no Segundo Ano na ETEC Registro 👍 Venho tentando melhorar na Programação 😎 E também nas Edições de vídeos e fotos 💪
+</div><br><br>
+
+<div align="center">
   <a href="https://github.com/VicRuk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VicRuk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicRuk&layout=compact&langs_count=7&theme=dracula"/>
