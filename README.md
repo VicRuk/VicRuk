@@ -3,8 +3,8 @@
 </div><br>
 <div align="center">
   <a href="https://github.com/VicRuk">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VicRuk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicRuk&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VicRuk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicRuk&layout=compact&langs_count=7&theme=dracula"/>
 </div><br><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="vic-AE" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
