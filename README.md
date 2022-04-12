@@ -1,4 +1,4 @@
-## Bom dia!
+## Bem vindo!
 <div align="center">
   <img align="center" alt="perfil" src="https://cdn.discordapp.com/attachments/825767075733307423/963238024068616333/test2.png">
 </div><br>
